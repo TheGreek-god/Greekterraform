@@ -8,16 +8,26 @@ This repository contains terraform scripts for deploying a robust azure infrastr
 ##Architecture
 
 the architecture comprises the following componets
+
+
 -**Storage account** for persistent data storage
+
+
 -**Key vault** to manage secrets and keys securely
+
+
 **-Azure baston** provides secure rdp and ssh connectivity to virtual machines
+
+
 **Management services** hosts domain-related services
+
+
 **Cluster nodes**a set of nodes for handling worloads, each with attached data disks
 
 ##Prerequisites
 
 -Azure subscription
--Terraform installed on your loacl machine
+-Terraform installed on your local machine
 
 ##usage 
 
