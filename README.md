@@ -15,7 +15,7 @@ the architecture comprises the following componets
 -Azure subscription
 -Terraform installed on your loacl machine
 
-##usage
+##usage 
 -Clone the repository to your local machine
 -Naviagate to the terraform script directory
 -Initialize terraform with 'terraform init'
