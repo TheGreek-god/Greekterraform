@@ -1,5 +1,6 @@
 #Azure Infrastructure Deployment with Terraform
 
+
 ##Overview
 
 This repository contains terraform scripts for deploying a robust azure infrastructure, as depicted in the accompanying architectural diagram.  the setup includes variety of of services and resources, ensuring a secure and efficient cloud environment
@@ -27,4 +28,5 @@ the architecture comprises the following componets
 
 
 #Contributions 
+
 Contributions to this project are welcome, please fork the repository and submit a pull request with changes 
